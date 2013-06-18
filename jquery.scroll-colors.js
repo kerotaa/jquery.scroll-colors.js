@@ -5,7 +5,7 @@
  * 
  * Copyright (c) 2013 kerotaa (http://kerotaa.hateblo.jp/)
  * Licensed under the MIT license (http://www.opensource.org/licenses/mit-license.php).
- * 2013-05-21
+ * 2013-05-22
  **/
 ;(function($, window) {
   var ScrollColors;
